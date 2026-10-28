@@ -1,44 +1,87 @@
-
-# Hey, I'm Jabez! 👋
-
+jabezblanza
+jabezblanza
+Repository navigation
+Code
+Issues
+Pull requests
+Agents
+Actions
+Projects
+Wiki
+Security and quality
+Insights
+Settings
+jabezblanza
+jabezblanza
+Public
+Go to file
+t
+T
+jabezblanza
+jabezblanza
+Update README.md
+67fdf6f
+ · 
+3 hours ago
+Name		
+README.md
+Update README.md
+3 hours ago
+Repository files navigation
+README
+Hey, I'm Jabez! 👋
 I'm an Information Technology graduate from the Philippines 🇵🇭 with an interest in software development, IT infrastructure, and cybersecurity.
 
 I enjoy exploring technologies, solving technical problems, and building practical projects that help me learn and improve.
 
-### 🌱 What I'm currently working on
+🌱 What I'm currently working on
+Building and improving my personal projects
+Strengthening my programming and problem-solving skills
+Exploring Linux, networking, and cybersecurity
+Learning more about modern web development
+🛠️ Tools & Technologies
+Languages & Development
 
-- Building and improving my personal projects
-- Strengthening my programming and problem-solving skills
-- Exploring Linux, networking, and cybersecurity
-- Learning more about modern web development
+Python JavaScript SQL
 
-### 🛠️ Tools & Technologies
+Web & Database
 
-**Languages & Development**
+Next.js MySQL
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+Tools & Infrastructure
 
-**Web & Database**
+Git GitHub Docker Linux Windows
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+📫 How to reach me
+LinkedIn: Connect with me
+Portfolio: View my work
+Email: nemueljabezblanza07@gmail.com
+Always learning, building, and improving.
 
-**Tools & Infrastructure**
+jabezblanza/jabezblanza is a special repository.
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
+Its README.md will appear on your public profile.
 
-### 📫 How to reach me
+About
 
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/nemueljabezblanza/)
-- **Portfolio:** [View my work](https://jabezblanza-portfolio.vercel.app/)
-- **Email:** nemueljabezblanza07@gmail.com
-
----
-
-*Always learning, building, and improving.*
+No description, website, or topics provided.
+Resources
+Readme
+Activity
+Stars
+0 stars
+Watchers
+0 watching
+Forks
+0 forks
+Releases
+No releases published
+Create a new release
+Packages
+No packages published
+Publish your first package
+Contributors
+1
+ (1)
+@jabezblanza
+jabezblanzaNemuel Jabez Blanza
