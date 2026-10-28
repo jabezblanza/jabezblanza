@@ -10,7 +10,7 @@ import re
 from zoneinfo import ZoneInfo
 
 import cairosvg
-from PIL import Image
+from PIL import Image, ImageOps
 
 root = Path(__file__).resolve().parents[1]
 assets = root / "assets"
@@ -31,7 +31,7 @@ frames = []
 for svg in (on, off):
     png = cairosvg.svg2png(bytestring=svg.encode("utf-8"), output_width=1200)
     with Image.open(BytesIO(png)) as image:
-        frames.append(image.convert("RGB"))
+        frames.append(ImageOps.grayscale(image).convert("RGB"))
 
 out = assets / "aboutme.gif"
 frames[0].save(
