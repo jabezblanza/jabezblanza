@@ -3,11 +3,19 @@ on:
   schedule:
     - cron: '*/5 * * * *'
   workflow_dispatch:
+  push:
+    paths:
+      - 'scripts/update_clock.py'
+      - 'assets/aboutme.template.svg'
+      - '.github/workflows/update-aboutme.yml'
+
 permissions:
   contents: write
+
 concurrency:
   group: aboutme-clock
   cancel-in-progress: false
+
 jobs:
   refresh:
     runs-on: ubuntu-latest
@@ -16,13 +24,16 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - run: python scripts/update_clock.py
-      - name: Commit updated clock
+      - name: Install image renderer
+        run: python -m pip install pillow cairosvg
+      - name: Render animated About Me with PHT time
+        run: python scripts/update_clock.py
+      - name: Commit refreshed GIF and README cache key
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add assets/aboutme.svg
+          git add assets/aboutme.gif README.md
           if ! git diff --cached --quiet; then
-            git commit -m 'Update About Me time'
+            git commit -m 'Refresh animated About Me clock'
             git push
           fi
