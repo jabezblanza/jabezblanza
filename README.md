@@ -1,4 +1,4 @@
-![Banner](./assets/header_banner.gif)
+![Banner](./assets/jab_banner.gif)
 
 <br>
 
