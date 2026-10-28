@@ -11,4 +11,4 @@
 
 <br>
 
-![About Me](./assets/aboutme.gif?v=202610290456)
+![About Me](./assets/aboutme.gif?v=202610290532)
