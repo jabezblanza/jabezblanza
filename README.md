@@ -1,4 +1,4 @@
-```html
+html
 <!-- Header Banner -->
 <div align="center">
   <img src="./assets/banner.gif" alt="Welcome to Jabez Github" width="100%" />
@@ -22,4 +22,3 @@
 </div>
 
 <br>
-```
