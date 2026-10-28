@@ -1,5 +1,5 @@
 
-![Banner](./assets/banner.gif)
+![Banner](./assets/header_banner.gif)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nemueljabezblanza/"><img src="https://img.shields.io/badge/LinkedIn-24292F?style=flat-square&logo=linkedin&logoColor=white" height="25" alt="LinkedIn"></a>
