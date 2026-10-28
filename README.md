@@ -1,6 +1,10 @@
 
 ![Welcome to Jabez Github](./assets/banner.gif)
 
-[![LinkedIn](https://cdn.simpleicons.org/linkedin/FFFFFF)](https://www.linkedin.com/in/nemueljabezblanza/)
-[![Gmail](https://cdn.simpleicons.org/gmail/FFFFFF)](mailto:nemueljabezblanza07@gmail.com)
-[![Instagram](https://cdn.simpleicons.org/instagram/FFFFFF)](https://www.instagram.com/YOUR-USERNAME/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/nemueljabezblanza/"><img src="https://cdn.simpleicons.org/linkedin/FFFFFF" width="25"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:nemueljabezblanza07@gmail.com"><img src="https://cdn.simpleicons.org/gmail/FFFFFF" width="25"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/YOUR-USERNAME/"><img src="https://cdn.simpleicons.org/instagram/FFFFFF" width="25"></a>
+</p>
