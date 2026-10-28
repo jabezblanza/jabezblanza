@@ -10,6 +10,5 @@
 </div>
 
 <br>
-<br>
 
 ![About Me](./assets/aboutme.gif?v=202610282339)
