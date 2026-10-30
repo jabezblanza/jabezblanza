@@ -35,9 +35,9 @@ I enjoy exploring technologies, solving technical problems, and building practic
 
 ### 📫 How to reach me
 
-- **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
-- **Portfolio:** [View my work](YOUR_PORTFOLIO_URL)
-- **Email:** YOUR_EMAIL_ADDRESS
+- **LinkedIn:** [Connect with me]()
+- **Portfolio:** [View my work]()
+- **Email:** nemueljabezblanza07@gmail.com
 
 ---
 
