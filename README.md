@@ -1,5 +1,7 @@
 
-# Hey, I'm Jabez! 👋
+
+<h1 align="center">Hey, I'm Jabez Blanza! 👋</h1>
+
 
 I'm an Information Technology graduate from the Philippines 🇵🇭 with an interest in software development, IT infrastructure, and cybersecurity.
 
