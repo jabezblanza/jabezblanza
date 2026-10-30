@@ -3,7 +3,7 @@
 <h1 align="center">Hey, I'm Jabez Blanza! </h1>
 
 
-I'm an Information Technology graduate from the Philippines 🇵🇭 with an interest in software development, IT infrastructure, and cybersecurity.
+I'm an Information Technology graduate from the Philippines with an interest in software development, IT infrastructure, and cybersecurity.
 
 I enjoy exploring technologies, solving technical problems, and building practical projects that help me learn and improve.
 
